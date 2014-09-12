@@ -3,7 +3,8 @@ html{
 }
 
 body {
-	width: 80%;
+	width: 60%;
+	height: 100%;
 	padding-top: 1px;
 	margin-top: 0px;
 	margin-right: auto;
@@ -13,7 +14,7 @@ body {
 
 .content {
 	width: 95%;
-	height: 500px;
+	height: 600px;
 	background-color: gray;
 	margin-right: auto;
 	margin-bottom: 0px;
